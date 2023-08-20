@@ -1,1 +1,1 @@
-"# abc" 
+Python 練習
